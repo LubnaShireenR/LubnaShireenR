@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=180&section=header&text=Lubna%20Shireen%20R&fontSize=38&fontColor=00E5FF&fontAlignY=40&desc=Data%20Analyst%20%7C%20Turning%20raw%20data%20into%20decisions&descAlignY=62&descSize=16&descColor=FF3EA5" width="100%" alt="header" />
 
-<img src="./assets/mascot-wave.svg" width="90" align="right" />
+<img src="mascot-wave.svg" width="90" align="right" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lubnashireenr"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00E5FF" /></a>
@@ -31,15 +31,15 @@ B.Tech final-year student in Electronics & Communication Engineering with Data S
 <br><sub><b>NumPy</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mysql.svg" width="40" height="40" alt="MySQL"/>
 <br><sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Power BI"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/powerbi.svg" width="40" height="40" alt="Power BI"/>
 <br><sub><b>Power BI</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" alt="Tableau"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tableau.svg" width="40" height="40" alt="Tableau"/>
 <br><sub><b>Tableau</b></sub>
 </td>
 </tr>
@@ -65,13 +65,13 @@ B.Tech final-year student in Electronics & Communication Engineering with Data S
 <br><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40" alt="Excel"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftexcel.svg" width="40" height="40" alt="Excel"/>
 <br><sub><b>Excel</b></sub>
 </td>
 </tr>
 </table>
 
-<p align="center"><img src="./assets/mascot-hang.svg" width="110" /></p>
+<p align="center"><img src="mascot-hang.svg" width="110" /></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a1a1a,100:000000&height=4&width=100%" width="100%" />
 
@@ -88,7 +88,7 @@ B.Tech final-year student in Electronics & Communication Engineering with Data S
 
 <sub>Full list of repos and smaller EDA/SQL experiments → [github.com/LubnaShireenR](https://github.com/LubnaShireenR?tab=repositories)</sub>
 
-<p align="center"><img src="./assets/mascot-walk.svg" width="100" /></p>
+<p align="center"><img src="mascot-walk.svg" width="100" /></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a1a1a,100:000000&height=4&width=100%" width="100%" />
 
@@ -222,7 +222,7 @@ Commit it, let the Action run once (check the **Actions** tab), and the snake ab
 
 ![Transmission Lines](https://img.shields.io/badge/📡_TRANSMISSION_LINES-000000?style=for-the-badge&labelColor=000000&color=000000)
 
-<img src="./assets/mascot-bye.svg" width="90" align="left" />
+<img src="mascot-bye.svg" width="90" align="left" />
 
 <p align="center">
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3EA5" /></a>
