@@ -225,7 +225,7 @@ Commit it, let the Action run once (check the **Actions** tab), and the snake ab
 <img src="mascot-bye.svg" width="90" align="left" />
 
 <p align="center">
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3EA5" /></a>
+<a href="mailto:lubnashireenr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3EA5" /></a>
 <a href="https://www.linkedin.com/in/lubnashireenr"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
 <a href="https://github.com/LubnaShireenR"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD400" /></a>
 </p>
