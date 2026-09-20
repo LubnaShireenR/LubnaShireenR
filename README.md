@@ -31,15 +31,15 @@ B.Tech final-year student in Electronics & Communication Engineering with Data S
 <br><sub><b>NumPy</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mysql.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" width="40" height="40" alt="MySQL"/>
 <br><sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/powerbi.svg" width="40" height="40" alt="Power BI"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" width="40" height="40" alt="Power BI"/>
 <br><sub><b>Power BI</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tableau.svg" width="40" height="40" alt="Tableau"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" width="40" height="40" alt="Tableau"/>
 <br><sub><b>Tableau</b></sub>
 </td>
 </tr>
@@ -65,7 +65,7 @@ B.Tech final-year student in Electronics & Communication Engineering with Data S
 <br><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftexcel.svg" width="40" height="40" alt="Excel"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" width="40" height="40" alt="Excel"/>
 <br><sub><b>Excel</b></sub>
 </td>
 </tr>
@@ -225,7 +225,7 @@ Commit it, let the Action run once (check the **Actions** tab), and the snake ab
 <img src="mascot-bye.svg" width="90" align="left" />
 
 <p align="center">
-<a href="lubnashireenr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3EA5" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lubnashireenr@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF3EA5" /></a>
 <a href="https://www.linkedin.com/in/lubnashireenr"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
 <a href="https://github.com/LubnaShireenR"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD400" /></a>
 </p>
